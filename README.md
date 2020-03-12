@@ -1,2 +1,8 @@
 # Weather-API
-Weather api that uses openweathermap api
+
+My api for educational purpose. Use openweathermap api to get data.
+
+Requirements:
+- Register on openweathermap.org
+- Get key from https://home.openweathermap.org/api_keys
+- Paste key value in appsettings.json file for ApiKey variable
